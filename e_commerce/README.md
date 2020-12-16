@@ -1,7 +1,6 @@
 # This is project on E-Commerce
 ### Short intro:
-* I have created this app on my internship but its not completed as they told me to stop development because client backoff from the project.
-but still i have done lots of functionality.
+* I created this app in my internship but its not completed as they told me to stop development because client backoff from the project.but still i have completed  most of the functionality.
 ## Basic Features:
 * OTP Login.
 * Saving data of user in Firebase cloud database.
