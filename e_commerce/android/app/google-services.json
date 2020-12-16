@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035310375297",
+    "firebase_url": "https://heavybucket-bb4b3.firebaseio.com",
+    "project_id": "heavybucket-bb4b3",
+    "storage_bucket": "heavybucket-bb4b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035310375297:android:9b62d9b946f2a2e1a58880",
+        "android_client_info": {
+          "package_name": "com.example.heavy_bucket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035310375297-p1nn1pp5pf97pno5v3823kg96gmeifog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8bpXUzB5Tml4f5--8YwlwqPYnF2JPwJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035310375297-p1nn1pp5pf97pno5v3823kg96gmeifog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
