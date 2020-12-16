@@ -1,16 +1,20 @@
-# food_app
-
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# This is project on Insta-Clone
+### Short intro:
+* This is just UI that i created on flutter with static data.
+* The design inspiration is from dribble.
+ ### Technology used:
+ * Flutter
+ * Dart
+  ### Screenshorts:
+ <p align="center">
+  <img align="center" src="img/1.gif" height=800> 
+ </p>
+ <p align="center">
+  <img src="img/1.jpeg" height=800>
+ </p>
+ <p align="center">
+  <img src="img/2.jpeg" height=800>
+ </p>
+ <p align="center">
+  <img src="img/3.jpeg" height=800>
+ </p>
