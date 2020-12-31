@@ -1,4 +1,4 @@
-# This is project on Insta-Clone
+# This is simple UI design.
 ### Short intro:
 * This is just UI that i created on flutter with static data.
 * The design inspiration is from dribble.
